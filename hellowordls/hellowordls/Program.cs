@@ -11,6 +11,7 @@ namespace hellowordls
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World1");
+            Console.WriteLine("Hallo von Lukas");
         }
     }
 }
